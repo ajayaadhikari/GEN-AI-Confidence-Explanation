@@ -1,0 +1,9 @@
+# Core
+streamlit
+openai
+
+# Data manipulation
+numpy
+
+# Plotting
+matplotlib
